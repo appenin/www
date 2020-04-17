@@ -7,7 +7,7 @@ template: page
 ### Éditeur
 
 Le site appenin.fr est édité par la SAS Appenin immatriculée sous le numéro 482 112 331 au Registre du Commerce et des Sociétés de Paris.
-Le siège de la société est établis au 86/90 rue Saint-Lazare 75009 Paris.
+Le siège de la société est établi au 86/90 rue Saint-Lazare 75009 Paris.
 Le directeur de la publication est Monsieur Sylvestre Frézal.
 
 Appenin est enregistré à l'ORIAS (https://www.orias.fr) sous le numéro 20001013 en qualité de courtier en assurance. 
