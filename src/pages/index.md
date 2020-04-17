@@ -21,7 +21,7 @@ sections:
           de votre clientèle.
       - title: Un parcours de vente simple et rapide à intégrer
         content: >-
-          Appenin fait levier sur les informations dont vous disposez
+          Appenin développe des interfaces client et des API optimisées
           pour offrir un parcours de vente fluide et sans couture.
       - title: Une rentabilité améliorée de votre portefeuille
         content: >-
