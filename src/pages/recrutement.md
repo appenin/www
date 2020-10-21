@@ -61,7 +61,7 @@ Les offres actuellement ouvertes sont les suivantes :
 |   |   |
 | ------| ----- |
 | Lead developer Node.js  | <a href="/offers/lead-developer-node-js/" class="button">Voir l'offre</a>  |
-| Dev Node.js full-stack  | <a href="/offers/developpeur-node-js-full-stack/" class="button">Voir l'offre</a>  |
+| Dev Node.js senior  | <a href="/offers/developpeur-node-js-full-stack/" class="button">Voir l'offre</a>  |
 | Dev Node.js junior | <a href="/offers/developpeur-node-js-junior/" class="button">Voir l'offre</a>  |
 | Senior channel manager | <a href="https://careers.flatchr.io/vacancy/7brjv9mz0bpr5mng-senior-business-development-manager-cdi?btn_color=004e92" class="button">Voir l'offre</a> |
 | Business developer | <a href="https://careers.flatchr.io/vacancy/jaonxpvrlappg4qz-business-developer" class="button">Voir l'offre</a> |
