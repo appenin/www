@@ -1,5 +1,5 @@
 ---
-title: Dev Node.js full-stack
+title: Dev Node.js senior
 subtitle: Venez construire le futur de l'assurance avec nous
 img_path: images/5.jpg
 menus:
