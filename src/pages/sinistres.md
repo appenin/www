@@ -8,7 +8,7 @@ template: page
 
 ### Mes deux priorités :
 1. vous assurer que la situation n’empire pas (un robinet qui fuit ? mettez une casserole dessous !)
-2. nous prévenir : par mail sinistres@appenin.fr, ou par téléphone : 01 78 38 01 80.
+2. nous prévenir : par mail sinistres@appenin.fr, ou par téléphone : 01 78 38 01 81.
 
 ### Avec qui vais-je échanger ?
 
