@@ -17,8 +17,9 @@ Appenin est une jeune startup InsurTech, créée et financée fin 2019, pour dé
 
 ## L’équipe
 
-Nous sommes actuellement 8 personnes dans notre open-space parisien : Amine, Arnaud, Isabelle, Léa, Andréa, Nolwenn, Sylvestre et Vincent. 
-Nos bureaux sont idéalement situés dans le Sentier, mais nous travaillons ponctuellement d’un peu partout. Si nous communiquons principalement en 
+Nous sommes actuellement 12 personnes dans notre open-space parisien : Amine, Arnaud, Fatima, Hugo, Isabelle, Léa, Nahla, Nina, Nolwenn, Sylvestre et Vincent. 
+
+Nos bureaux sont idéalement situés en plein coeur de Paris, à Beaubourg, mais nous travaillons ponctuellement d’un peu partout. Si nous communiquons principalement en 
 français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des clients ou 
 fournisseurs étrangers.
 
@@ -60,10 +61,11 @@ Les offres actuellement ouvertes sont les suivantes :
 
 |   |   |
 | ------| ----- |
-| Lead developer Node.js  | <a href="/offers/lead-developer-node-js/" class="button">Voir l'offre</a>  |
-| Dev Node.js senior  | <a href="/offers/developpeur-node-js-full-stack/" class="button">Voir l'offre</a>  |
-| Dev Node.js junior | <a href="/offers/developpeur-node-js-junior/" class="button">Voir l'offre</a>  |
-| Senior channel manager | <a href="https://careers.flatchr.io/vacancy/7brjv9mz0bpr5mng-senior-business-development-manager-cdi?btn_color=004e92" class="button">Voir l'offre</a> |
-| Business developer | <a href="https://careers.flatchr.io/vacancy/jaonxpvrlappg4qz-business-developer" class="button">Voir l'offre</a> |
+| Dev Node.js Full-Stack  | <a href="/offers/developer-node-js-full-stack/" class="button">Voir l 'offre</a>  |
+| Dev Node.js senior Back End  | <a href="/offers/developer-node-js-senior-back/" class="button">Voir l'offre</a>  |
+| Dev Node.js senior Front End  | <a href="/offers/developer-node-js-senior-front/" class="button">Voir l'offre</a>  |
+| Dev Node.js junior Back End | <a href="/offers/developer-node-js-junior-back/" class="button">Voir l'offre</a>  |
+| Dev Node.js junior Front End | <a href="/offers/developer-node-js-junior-front/" class="button">Voir l'offre</a>  |
+| Business developer | <a href="/offers/business-developer/" class="button">Voir l'offre</a> |
 
 
