@@ -13,7 +13,6 @@ template: page
     * nous utilisons également vos données dans le cadre de ce que les juristes appellent notre intérêt légitime. Par exemple la lutte contre la fraude, la prévention, ou encore la R&D et le développement de nouvelles activités.
   -	<i>Ce que nous ne faisons pas, et pourquoi : </i>
     * nous ne vendrons jamais vos données à quiconque, par principe,
-    * nous ne stockerons pas vos données à l’étranger, notamment en dehors de l’Union Européenne, sauf consentement explicite de votre part.
   -	<i>Ce que nous pourrions faire, uniquement si vous nous y autorisez explicitement :</i>
     * vous proposer des produits complémentaires en dehors du champ de l'assurance (e.g. une alarme).
 
@@ -89,10 +88,6 @@ Nous mettons en œuvre les mesures techniques et organisationnelles appropriées
   - des moyens permettant de rétablir la disponibilité des données à caractère personnel et l’accès à celles-ci dans des délais appropriés en cas d’incident physique ou technique,
   - des procédures visant à tester, à analyser et à évaluer régulièrement l’efficacité des mesures techniques et organisationnelles pour assurer la sécurité du traitement.
 Nous veillons à la bonne application de ces mesures tant par nos équipes que celles de nos sous-traitants.
-
-<b>Le transfert de vos données à l’extérieur de l’UE</b>
-
-Appenin ne transmet pas vos données à l’extérieur de l’Union Européenne.
 
 <b>Votre interlocuteur</b>
 
