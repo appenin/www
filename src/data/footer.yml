@@ -1,5 +1,7 @@
 content: '&copy; Appenin - '
-has_social: true
+has_social: false
 links:
    - text: 'Mentions légales'
      url: /mentions-legales/
+   - text: 'Vie privée'
+     url: /vie-privee/
