@@ -23,7 +23,6 @@ Nous sommes actuellement 12 personnes dans notre open-space parisien : Amine, Ar
 En étroite collaboration avec le responsable Sales et Partenariats, vous participerez activement au développement commercial et à la stratégie de la relation client-partenaires.
 
 Vos missions :
-
 * Recruter nos futurs partenaires et leur donner les moyens de distribuer nos produits à leurs clients :
     * En identifiant et en qualifiant des prospects dans plusieurs secteurs d’activités
     * En mettant en place des relations de confiance avec ces acteurs et en les accompagnant au quotidien
@@ -58,3 +57,12 @@ Vos missions :
 * Un package attractif
 * Mutuelle et carte restaurant
 
+## Plus de visibilité sur le process
+
+* Un premier échange RH
+* Un échange avec Arnaud
+* Une rencontre avec toute l’équipe
+
+## Comment candidater ?
+
+Ecrivez nous à **candidatures@appenin.fr** et parlez nous de ce qui vous donne envie de nous rejoindre. N’hésitez pas à y joindre un CV !

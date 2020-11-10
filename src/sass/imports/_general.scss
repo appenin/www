@@ -165,6 +165,10 @@ ol {
   padding: 0 0 0 1.5em;
 }
 
+p + ul {
+    margin-top: -1.875em;
+}
+
 li > ul,
 li > ol {
   margin-bottom: 0;
