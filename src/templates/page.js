@@ -25,6 +25,11 @@ export default class Page extends React.Component {
                 <div className="outer">
                   <div className="inner-medium">
                     <div className="post-content">
+                       {_.get(this.props, 'pageContext.frontmatter.rubberstamp') &&
+                       <div className="rubber-stamp">
+                         {htmlToReact(_.get(this.props, 'pageContext.frontmatter.rubberstamp'))}
+                       </div>
+                      } 
                       {htmlToReact(_.get(this.props, 'pageContext.html'))}
                     </div>
                   </div>

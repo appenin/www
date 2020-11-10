@@ -80,7 +80,7 @@ Nous saurons également apprécier si :
 
 ## Le cadre
 
-* **Contrat**. — Contrat à durée indéterminée, statut cadre, RTT, mutuelle et carte restaurent
+* **Contrat**. — Contrat à durée indéterminée, statut cadre, RTT, mutuelle et carte restaurant
 * **Rémunération**. — Elle sera déterminée en fonction de votre précédent salaire. Nous alignons nos rémunérations sur les standards du marché.
 * **Travail à distance**. — En temps normal, le travail à distance est possible, ponctuellement, 
 sans qu’un préavis ou une validation ne soient nécessaires. Pour que vous puissiez contribuer 
@@ -95,7 +95,7 @@ vous croiser trois à quatre jours par semaine dans nos bureaux parisiens.
 * une rencontre avec toute l'équipe
 
 
-### Comment postuler
+### Comment candidater ?
 
 Pour nous envoyer votre candidature, écrivez-nous à **candidatures@appenin.fr** et parlez-nous de ce qui 
 vous donne envie de nous rejoindre.

@@ -60,12 +60,12 @@ bienveillantes](https://appenin.github.io/appenin/charte.html) grâce auxquelles
 Les offres actuellement ouvertes sont les suivantes :
 
 |   |   |
-| ------| ----- |
-| Dev Node.js Full-Stack  | <a href="/offers/developer-node-js-full-stack/" class="button">Voir l 'offre</a>  |
-| Dev Node.js senior Back End  | <a href="/offers/developer-node-js-senior-back/" class="button">Voir l'offre</a>  |
-| Dev Node.js senior Front End  | <a href="/offers/developer-node-js-senior-front/" class="button">Voir l'offre</a>  |
-| Dev Node.js junior Back End | <a href="/offers/developer-node-js-junior-back/" class="button">Voir l'offre</a>  |
-| Dev Node.js junior Front End | <a href="/offers/developer-node-js-junior-front/" class="button">Voir l'offre</a>  |
-| Business developer | <a href="/offers/business-developer/" class="button">Voir l'offre</a> |
+|:------|:------:|:-----:|
+| Dev Node.js Full-Stack | <a href="/offers/developer-node-js-full-stack/" class="button">Voir l 'offre</a>  | |
+| Dev Node.js senior Back End | <a href="/offers/developer-node-js-senior-back/" class="button">Voir l'offre</a>  | |
+| Dev Node.js senior Front End | <a href="/offers/developer-node-js-senior-front/" class="button">Voir l'offre</a>  | <span class="mini-rubber-stamp">pourvu</span> |
+| Dev Node.js junior Back End | <a href="/offers/developer-node-js-junior-back/" class="button">Voir l'offre</a>  | |
+| Dev Node.js junior Front End | <a href="/offers/developer-node-js-junior-front/" class="button">Voir l'offre</a>  | |
+| Business developer | <a href="/offers/business-developer/" class="button">Voir l'offre</a> | |
 
 

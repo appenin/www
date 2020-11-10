@@ -1,0 +1,40 @@
+/**
+ * Custom Icons
+ * ----------------------------------------------------------------------------
+ */
+.rubber-stamp {
+  box-shadow: 0 0 0 3px red, 0 0 0 2px red inset;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  display: inline-block;
+  padding: 2px 15px;
+  line-height: 48px;
+  color: red;
+  font-size: 46px;
+  font-family: 'Black Ops One', cursive;
+  text-transform: uppercase;
+  text-align: center;
+  opacity: 0.6;
+  position:absolute;
+  top: 25px;
+  right: 10px;
+  transform: rotate(-18deg);
+}
+
+.mini-rubber-stamp {
+   box-shadow: 0 0 0 3px red;
+   border: 2px solid transparent;
+   border-radius: 4px;
+   display: inline-block;
+   padding: 1px 3px;
+   line-height: 13px;
+   color: red;
+   font-size: 12px;
+   font-family: 'Black Ops One', cursive;
+   text-transform: uppercase;
+   text-align: center;
+   opacity: 0.6;
+   transform: rotate(-18deg);
+   margin-left:auto;
+ }
+
