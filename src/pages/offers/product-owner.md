@@ -28,7 +28,7 @@ Product Owner
 Le poste de PO est rattaché à la Direction des Opérations
 
 
-## Missions et attributions
+### Missions et attributions
 
 Le Product Owner (PO) est responsable de la réalisation du produit en mode agile. Il est en charge de satisfaire les besoins des clients en menant à bien la livraison d’un produit de qualité. Il sert d’interface entre l’équipe technique, l’équipe marketing et les clients. Au sein de son groupe de travail, il est le premier responsable de la conception du produit.
 
@@ -72,6 +72,8 @@ Le produit est présenté à l’équipe en fin de sprint lors de la démo. On y
 #### 5. Animer la démo
 Le PO prend en charge la préparation et l’animation de la Démo qui réunit toute l’équipe autour du produit en fin de sprint.
 
+## Comment candidater ?
 
+Ecrivez nous à candidatures@appenin.fr et parlez nous de ce qui vous donne envie de nous rejoindre. N’hésitez pas à y joindre un CV !
 
 

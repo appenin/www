@@ -27,7 +27,7 @@ Juriste en assurance
 
 Le poste de Juriste en Assurance est rattaché à la Direction Assurance
 
-## Missions et attributions
+### Missions et attributions
 
 * En étroite collaboration avec les actuaires le juriste prendra en charge la rédaction des CG , CP, IPID et tout autre document contractuel assurance
 * Etroitement associé à l’élaboration des parcours de souscription, il sera chargé de garantir  la conformité du parcours de souscription avec les exigences réglementaires (DDA, RGPD, LCBFT…)
@@ -68,7 +68,9 @@ Le poste de Juriste en Assurance est rattaché à la Direction Assurance
 * Réactivité et capacité à traiter en parallèle des sujets variés
 
 
+## Comment candidater ?
 
+Ecrivez nous à candidatures@appenin.fr et parlez nous de ce qui vous donne envie de nous rejoindre. N’hésitez pas à y joindre un CV !
 
 
 

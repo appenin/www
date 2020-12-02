@@ -67,5 +67,7 @@ Les offres actuellement ouvertes sont les suivantes :
 | Dev Node.js junior Back End | <a href="/offers/developer-node-js-junior-back/" class="button">Voir l'offre</a>  | |
 | Dev Node.js junior Front End | <a href="/offers/developer-node-js-junior-front/" class="button">Voir l'offre</a>  | |
 | Business developer | <a href="/offers/business-developer/" class="button">Voir l'offre</a> | |
-
+| Product Owner | <a href="/offers/product-owner/" class="button">Voir l'offre</a> | |
+| Actuaire | <a href="/offers/actuaire/" class="button">Voir l'offre</a> | |
+| Juriste en assurance | <a href="/offers/juriste-en-assurance/" class="button">Voir l'offre</a> | |
 

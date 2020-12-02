@@ -23,11 +23,11 @@ L’équipe Appenin présente une grande diversité de profils, de compétences 
 
 Actuaire junior
 
-# Positionnement du poste
+### Positionnement du poste
 
 Le poste d’Actuaire junior est rattaché à la Direction Assurance
 
-## Missions et attributions
+### Missions et attributions
 
 L’actuaire travaillera en étroite collaboration avec Amine, responsable de la construction et de la tarification des produits au sein d’Appenin. En interaction avec les autres membres de l’équipe, il contribuera :
 
@@ -58,5 +58,6 @@ En collaboration avec les équipes Commerciale et Tech, il contribuera égalemen
 * Curiosité, créativité et ouverture (envie de contribuer à l’émergence d’un nouveau business model où les données disponibles sont fonction de chaque contexte spécifique)
 
 
+## Comment candidater ?
 
-
+Ecrivez nous à candidatures@appenin.fr et parlez nous de ce qui vous donne envie de nous rejoindre. N’hésitez pas à y joindre un CV !
