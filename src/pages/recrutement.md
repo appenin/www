@@ -17,9 +17,10 @@ Appenin est une jeune startup InsurTech, créée et financée fin 2019, pour dé
 
 ## L’équipe
 
-Nous sommes actuellement 12 personnes dans notre open-space parisien : Amine, Arnaud, Fatima, Hugo, Isabelle, Léa, Nahla, Nina, Nolwenn, Sylvestre et Vincent. 
+Nous sommes actuellement 13 personnes dans notre open-space parisien : Amine, Arnaud, Fatima, Hugo, Isabelle, Juliette, Léa, Matthieu, Nahla, Nina, Nolwenn et Vincent. 
 
-Nos bureaux sont idéalement situés en plein coeur de Paris, à Beaubourg, mais nous travaillons ponctuellement d’un peu partout. Si nous communiquons principalement en 
+Nos bureaux sont idéalement situés en plein coeur de Paris, à Beaubourg, mais nous travaillons ponctuellement d’un peu partout. 
+Si nous communiquons principalement en 
 français, il nous arrive aussi de manier l’anglais lorsque nous collaborons avec des clients ou 
 fournisseurs étrangers.
 
