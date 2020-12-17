@@ -1,0 +1,96 @@
+
+<h2>Policy</h2>
+<ul class="parameter">
+  <li class="param-required-false">id : String
+    <br/>Policy id
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-false">code : String
+    <br/>Code
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-false">premium : BigDecimal
+    <br/>Premium
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-false">nb_months_due : Integer
+    <br/>Number of months due
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-true">start_date : date
+    <br/>Start date
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-true">term_start_date : date
+    <br/>Term start date
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-true">term_end_date : date
+    <br/>Term end date
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-false">signature_date : date
+    <br/>Signature date
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-false">payment_date : date
+    <br/>Payment date
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-false">subscription_date : date
+    <br/>Subscription date
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-false">email_validated : Boolean
+    <br/>Either or not the email has been validated
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-true">status : String
+    <br/>Policy status
+      <dl class="param-enum">
+        <dt>Enum:
+            <dd>INITIATED</dd>
+            <dd>SIGNED</dd>
+            <dd>PAID</dd>
+            <dd>APPLICABLE</dd>
+            <dd>CANCELLED</dd>
+        </dt>
+      </dl>
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-true">risk : Policy.Risks
+    <br/>
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-true">insurance : Policy.Insurance
+    <br/>
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-true">contact : Policy.Holder
+    <br/>
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-true">special_operations_code : String
+    <br/>Operation special code applied
+  </li>
+</ul>
+<ul class="parameter">
+  <li class="param-required-true">special_operations_code_applied_at : date
+    <br/>Application date of operation special code
+  </li>
+</ul>
