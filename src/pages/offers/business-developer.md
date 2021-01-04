@@ -4,6 +4,7 @@ subtitle: Venez construire le futur de l'assurance avec nous
 img_path: images/5.jpg
 menus:
 template: page
+rubberstamp: Pourvu
 ---
 
 ## Notre vision
