@@ -25,7 +25,7 @@ sections:
       - title: Nos contrats s’adaptent à vos clients et non l’inverse
         content: >-
           Nous construisons avec vous les produits d'assurances dont vos clients ont besoin.
-      - title: Un parcours de vente simple, intégré en 3 clics
+      - title: Un parcours de vente digital, rapide à intégrer
         content: >-
           Appenin met à votre disposition des interfaces client et des API optimisées
           qui offrent une expérience client fluide et unique.
@@ -53,8 +53,8 @@ sections:
       - title: Visibilité
         icon: images/ico3.png
         content: >-
-          Nous fonctionnons en marque blanche, c'est vous qui êtes mis en avant.
-          Et selon vos besoins, nous mettons à votre disposition des kits de communication.
+          Selon vos besoins, différentes solutions sont mises à votre disposition :
+          produit en marque blanche, kits de communication…
   - section_id: text-img
     component: FeaturesBlock
     type: featuresblock
@@ -104,7 +104,7 @@ sections:
       « Solution rapide et efficace qui séduit les étudiants par sa simplicité d’adhésion, son offre complète, son prix et son design.  
       
       L’équipe Appenin est très accessible et à l’écoute des besoins. »
-    source: Linda Mirabet
+    source: Linda Merabet
     capacity: Responsable de résidence étudiante
   - section_id: qui-sommes-nous
     component: FeaturesBlock
@@ -120,9 +120,8 @@ sections:
           propre système d'informations.
       - title: La solidité et la fiabilité d'un leader
         content: >-
-          Appenin est une société du groupe Covéa (MAAF-MMA-GMF),
-          premier assureur français des particuliers
-          en assurance habitation et en assurance auto,
+          Appenin  fait partie du groupe Covéa (MAAF-MMA-GMF),
+          leader français de l’assurance habitation et auto,
           et bénéficie de sa solidité financière
           et de son expertise technique.
   - section_id: nos-valeurs
