@@ -1,6 +1,5 @@
 ---
 title: Contact
-img_path: images/5.jpg
 menus:
 template: page
 ---
