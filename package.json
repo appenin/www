@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@stackbit/gatsby-plugin-menus": "0.0.4",
+    "babel-runtime": "^7.12.5",
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",
     "gatsby": "^2.25.3",
