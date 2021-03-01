@@ -1,6 +1,5 @@
 ---
 title: Mentions légales
-img_path: images/5.jpg
 menus:
 template: page
 ---

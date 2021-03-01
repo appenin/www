@@ -12,7 +12,7 @@ export default class Menu extends React.Component {
                   let page = _.get(this.props, 'page');
                   return (
                   <li key={item_idx} className={classNames('menu-item', {'has-children': _.size(_.get(item, 'items')) > 0}, {'current': _.get(this.props, 'page.url') === _.get(item, 'url')})}>
-                    <Link to={(_.get(item, 'url').startsWith('#') ? _.get(item, 'url') : safePrefix(_.get(item, 'url')))}>{_.get(item, 'title')}</Link>
+                    <Link className={classNames({'button': _.get(item, 'identifier') === 'menu-b2c'})} to={(_.get(item, 'url').startsWith('#') ? _.get(item, 'url') : safePrefix(_.get(item, 'url')))}>{_.get(item, 'title')}</Link>
                     {(_.size(_.get(item, 'items')) > 0) && 
                       <Menu {...this.props} menu={menu} menu_class={'submenu'} page={page} />
                     }

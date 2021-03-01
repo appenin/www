@@ -1,6 +1,5 @@
 ---
 title: J’ai subi un sinistre !
-img_path: images/5.jpg
 menus:
 template: page
 ---

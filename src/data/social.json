@@ -7,10 +7,16 @@
             "url": "https://twitter.com/appenin1"
         },
         {
-            "type": "github",
-            "title": "GitHub",
-            "icon": "fa-github",
-            "url": "https://github.com/appenin"
+            "type": "linkedin",
+            "title": "Linkedin",
+            "icon": "fa-linkedin",
+            "url": "https://www.linkedin.com/company/appenin/"
+        },
+        {
+             "type": "github",
+             "title": "GitHub",
+             "icon": "fa-github",
+             "url": "https://github.com/appenin"
         }
     ]
 }
