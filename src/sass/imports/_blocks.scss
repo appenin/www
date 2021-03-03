@@ -445,30 +445,45 @@
         color: _palette(bg);
         background: _palette(accent);
      &.with-icon {
-        padding-top: 3.75rem;
-        background-position: right top;
         background-repeat: no-repeat;
+        padding-top: 120px;
+        background-position: left top;
+
+        @media only screen and (min-width: 801px) {
+          padding-top: 3.75rem;
+          background-position: right top;
+        }
      }
+
+
 }
 
-
-
 .alternate .block-item:nth-child(3) .block-item-inside {
-         background: _palette(accent-alt);
+    background: _palette(accent-alt);
     &.with-icon {
-       padding-top: 3.75rem;
-       background-position: right top;
        background-repeat: no-repeat;
+       padding-top: 120px;
+       background-position: left top;
+
+       @media only screen and (min-width: 801px) {
+         padding-top: 3.75rem;
+         background-position: right top;
+       }
      }
 }
 
 .alternate .block-item:nth-child(4) .block-item-inside {
-          color: _palette(bg);
-          background: _palette(accent);
+    color: _palette(bg);
+    background: _palette(accent);
     &.with-icon {
-       padding-top: 3.75rem;
-       background-position: right top;
-       background-repeat: no-repeat;
+        background-repeat: no-repeat;
+        padding-top: 120px;
+        background-position: left top;
+
+        @media only screen and (min-width: 801px) {
+          padding-top: 3.75rem;
+          background-position: right top;
+        }
      }
 }
 
@@ -553,6 +568,7 @@
       &.with-icon {
         background-position: left top;
         background-repeat: no-repeat;
+        padding-top: 50px;
 
         @media only screen and (min-width: 641px) {
           padding-left: 70px;
@@ -610,7 +626,9 @@
 .fancy-box .with-icon .block-item-text {
    font-size: 1.25rem;
    line-height: 1.825rem;
-   padding-right: 8.25rem;
+   @media only screen and (min-width: 801px) {
+     padding-right: 8.25rem;
+   }
 }
 
 .fancy-box .block-item-text {
@@ -643,9 +661,14 @@
     padding-top: 1.875em;
 
     &.with-icon {
-      padding-top: 3.75rem;
-      background-position: right top;
-      background-repeat: no-repeat;
+       background-repeat: no-repeat;
+       background-position: left top;
+       padding-top: 120px;
+
+       @media only screen and (min-width: 801px) {
+         padding-top: 3.75rem;
+         background-position: right top;
+      }
     }
   }
 }
