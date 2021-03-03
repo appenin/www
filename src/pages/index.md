@@ -114,10 +114,9 @@ sections:
     featureslist:
       - title: La réactivité et l'agilité d'une start-up
         content: >-
-          Jeune startup InsurTech créée et financée en 2020
-          Appenin développe ses produits d'assurances en fonction
-          des besoins de vos clients et dispose pour cela de son
-          propre système d'informations.
+          Appenin conçoit des produits d'assurances en fonction des
+          besoins de vos clients et a construit pour cela une plateforme technique
+          permettant la mise en production d'un nouveau produit en trois semaines.
       - title: La solidité et la fiabilité d'un leader
         content: >-
           Appenin  fait partie du groupe Covéa (MAAF-MMA-GMF),
