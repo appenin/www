@@ -1,6 +1,8 @@
-content: '&copy; Appenin - '
-has_social: false
+content: '<img src="/images/logo.svg" style="filter: brightness(1000%); width: 5rem; padding-right:300px; margin-bottom:1rem;">'
+has_social: true
 links:
+   - text: 'Accueil'
+     url: /
    - text: 'Mentions légales'
      url: /mentions-legales/
    - text: 'Vie privée'

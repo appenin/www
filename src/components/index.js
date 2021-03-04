@@ -1,5 +1,7 @@
 import ContentBlock from './ContentBlock';
+import TestimonialBlock from './TestimonialBlock';
 import CtaBlock from './CtaBlock';
+import RichCtaBlock from './RichCtaBlock';
 import CtaButtons from './CtaButtons';
 import DocsMenu from './DocsMenu';
 import DocsSubmenu from './DocsSubmenu';
@@ -13,7 +15,9 @@ import Layout from './Layout';
 
 export {
     ContentBlock,
+    TestimonialBlock,
     CtaBlock,
+    RichCtaBlock,
     CtaButtons,
     DocsMenu,
     DocsSubmenu,
@@ -28,7 +32,9 @@ export {
 
 export default {
     ContentBlock,
+    TestimonialBlock,
     CtaBlock,
+    RichCtaBlock,
     CtaButtons,
     DocsMenu,
     DocsSubmenu,

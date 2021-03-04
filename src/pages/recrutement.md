@@ -3,9 +3,6 @@ title: Nous recrutons
 subtitle: Venez construire le futur de l'assurance avec nous
 img_path: images/5.jpg
 menus:
-  main:
-    weight: 4
-    title: Recrutement
 template: page
 ---
 

@@ -8,7 +8,7 @@ export default class Header extends React.Component {
     render() {
         let menu = _.get(this.props, 'pageContext.menus.main');
         return (
-            <header id="masthead" className="site-header outer">
+            <header id="masthead" className="site-header outer bg-gradient-alt">
               <div className="inner">
                 <div className="site-header-inside">
                   <div className="site-branding">

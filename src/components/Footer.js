@@ -12,7 +12,8 @@ export default class Footer extends React.Component {
                 <div className="site-footer-inside">
                   <p className="site-info">
                     {htmlToReact(_.get(this.props, 'pageContext.site.data.footer.content'))}
-                    &nbsp;
+                  </p>
+                  <p className="site-links">
                     {_.map(_.get(this.props, 'pageContext.site.data.footer.links'), (link, link_idx) => (<React.Fragment key={link_idx}>
                     <Link key={link_idx} to={_.get(link, 'url')} {...(_.get(link, 'new_window') ? {target: '_blank', rel: 'noopener'} : null)}>{_.get(link, 'text')}</Link>
                     </React.Fragment>))}

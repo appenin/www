@@ -3,9 +3,8 @@
  * ----------------------------------------------------------------------------
  */
  .site-header {
-  background: #fff;
-  padding-bottom: 1.25em;
-  padding-top: 1.125em;
+  padding-bottom: 1.0em;
+  padding-top: 1.0em;
 }
 
 .site-header-inside {
@@ -56,9 +55,10 @@
   }
 
   .menu-item {
-    color: _palette(meta);
-    font-size: 0.875rem;
-    line-height: 1.5;
+    color: _palette(primary);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.375rem;
     position: relative;
 
     &.current {
@@ -75,6 +75,16 @@
     &:hover,
     &:focus {
       color: _palette(accent);
+    }
+    &.button {
+      color:_palette(bg);
+      padding: 0.625em 20px;
+      line-height: 1.2rem;
+      border: 3px solid _palette(accent);
+    }
+    &.button:hover,
+    &.button:focus {
+        color: _palette(accent);
     }
   }
 }

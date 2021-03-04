@@ -35,7 +35,6 @@ h3,
 h4,
 h5,
 h6 {
-  color: _palette(secondary);
   font-weight: bold;
   line-height: 1.2;
   margin: 2.25rem 0 1.125rem;
@@ -283,16 +282,16 @@ input[type="reset"],
 a.button {
   background-color: _palette(accent);
   border: 3px solid _palette(accent);
-  border-radius: 25px;
+  border-radius: 8px;
   box-sizing: border-box;
-  color: #fff;
+  color: _palette(bg);
   display: inline-block;
-  font-size: 0.875rem;
-  font-weight: bold;
+  font-size: 1rem;
+  font-weight: 500;
   height: 3.25em;
   letter-spacing: 0.025em;
-  line-height: 1.5;
-  padding: 0.25em 40px;
+  line-height: 1.6rem;
+  padding: 0.625em 20px;
   -webkit-transition: background-color .3s, color .3s, box-shadow .3s;
   transition: background-color .3s, color .3s, box-shadow .3s;
 
@@ -396,12 +395,23 @@ img {
   padding: 1em 1.125em;
 }
 
+.bg-accent-alt {
+  background: _palette(accent-alt-light);
+}
+
 /* Background gradient */
 .bg-gradient {
-  background: _palette(accent);
-  background: -webkit-linear-gradient(left,_palette(accent-alt), _palette(accent));
-  background: linear-gradient(to right, _palette(accent-alt), _palette(accent));
+  background: _palette(bg);
+  background: -webkit-linear-gradient(left, _palette(accent-light), adjust_hue(saturate(_palette(bg),10.6),27)) !important;
+  background: linear-gradient(to right, _palette(accent-light), adjust_hue(saturate(_palette(bg),10.6),27)) !important;
 }
+
+/* Background gradient-alt */
+ .bg-gradient-alt {
+   background: _palette(bg);
+   background: -webkit-linear-gradient(left,adjust_hue(darken(_palette(accent-alt-light),1.6),2),  _palette(bg)) !important;
+   background: linear-gradient(to right, adjust_hue(darken(_palette(accent-alt-light),1.6),2),  _palette(bg)) !important;
+ }
 
 /* Background Image */
 .bg-img {
@@ -420,7 +430,7 @@ img {
 /* Heading decoration */
 .line-left {
   position: relative;
-
+/*
   &:before {
     background: _palette(accent);
     content: "";
@@ -430,6 +440,7 @@ img {
     top: 0;
     width: 5px;
   }
+*/
 }
 
 /* Text meant only for screen readers */

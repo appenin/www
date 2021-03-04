@@ -1,16 +1,16 @@
 {
     "links": [
         {
-            "type": "twitter",
-            "title": "Twitter",
-            "icon": "fa-twitter",
-            "url": "https://twitter.com/appenin1"
+            "type": "linkedin",
+            "title": "Linkedin",
+            "icon": "fa-linkedin",
+            "url": "https://www.linkedin.com/company/appenin/"
         },
         {
-            "type": "github",
-            "title": "GitHub",
-            "icon": "fa-github",
-            "url": "https://github.com/appenin"
+             "type": "github",
+             "title": "GitHub",
+             "icon": "fa-github",
+             "url": "https://github.com/appenin"
         }
     ]
 }

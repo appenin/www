@@ -4,15 +4,19 @@
  */
 .site-footer {
   border-top: 1px solid _palette(border);
-  padding-bottom: 1.25em;
-  padding-top: 1.25em;
+  background: _palette(primary);
+  color: _palette(bg);
+
+
+  padding-bottom: 5.25em;
+  padding-top: 3.25em;
 
   a {
     color: inherit;
 
     &:hover,
     &:focus {
-      color: _palette(accent);
+      color: _palette(accent-alt);
     }
   }
 }
@@ -22,17 +26,38 @@
   line-height: 1.5;
   margin-bottom: 0.9375rem;
   margin-top: 0.25em;
-  
   a {
-    margin-left: 5px;
+    display: block;
+    width: 14rem;
+    text-decoration: none;
+    border-bottom: none;
   }
 }
+
+
+.site-links {
+   font-size: 0.875em;
+   line-height: 1.5;
+   margin-bottom: 0.9375rem;
+   margin-top: 0.25em;
+   display: table-cell;
+   a {
+     display: block;
+     width: 14rem;
+     text-decoration: none;
+     border-bottom: none;
+     vertical-align: top;
+   }
+ }
+
+
 
 .social-links {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   list-style: none;
+  justify-content: end;
   margin: 0;
   padding: 0;
 
