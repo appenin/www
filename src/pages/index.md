@@ -89,7 +89,7 @@ sections:
     alternate: yes
     image: images/32.jpg
     content: >-
-      « La solution proposée par Appenin & MMA correspond totalement aux besoins du client
+      « La solution proposée par Appenin correspond totalement aux besoins du client
       et aux attentes du marché d’un point de vue expérience client et parcours digital.
       Les équipes d’Appenin ont compris notre organisation et continuent de nous accompagner
       dans ce déploiement auprès de nos clients utilisateurs et dans notre réseau E-Mobilia. »
