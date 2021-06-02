@@ -5,7 +5,7 @@ template: page
 ---
 
 
-### Ici on a le droit...
+#### Ici on a le droit...
 
 * de dire « je ne sais pas »
 * de demander à ce que quelque chose soit clarifié
